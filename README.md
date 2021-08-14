@@ -1,2 +1,2 @@
-# Random shit
- Random projects i have on my computer
+# Random crap
+Működő php - ftp oldal
